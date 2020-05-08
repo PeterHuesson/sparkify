@@ -35,6 +35,9 @@ root
 This is the capstone project of a udacity nanodegree.
 In this project we build a machine learning algorithm to best predict customers who might end their service in our fictional streaming service.
 
+<h1>Results</h1>
+I published the full results of my findings in this post on medium:
+https://medium.com/@peter.huesson/how-you-never-lose-a-customer-again-e35928a227e8
 
 <h1>Licensing, Authors, Acknowledgements</h1>
 Must give credit to Udacity for the Sparkify Event data.
