@@ -1,8 +1,8 @@
 <h1>Installation</h1>
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using:
 
-Python 3.6
-Spark 2.4
+- Python 3.6
+- Spark 2.4
 
 <h1>Data</h1>
 I used the small and medium size data provided by udacity.
